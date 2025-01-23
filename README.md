@@ -1,3 +1,7 @@
+# Function for addition
+def add(a, b):
+    return a + b
+
 # Function for subtraction
 def subtract(a, b):
     return a - b
@@ -11,4 +15,5 @@ def divide(a, b):
     if b != 0:
         return a / b
     else:
-        return "Division by zero is not allowed!"# MiLaJoPa
+        return "Division by zero is not allowed!"
+
